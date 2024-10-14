@@ -14,7 +14,8 @@
 - App development  
 📫 How to reach me: kiranrajbadakambi@gmail.com  
 😄 Pronouns: he/him  
-⚡ Fun fact: I love learning new things every day!  
+⚡ Fun fact: I love learning new things every day!
+![Profile Views](https://komarev.com/ghpvc/?username=KiranRaj845&color=blue)
 
 <!---
 KiranRaj845/KiranRaj845 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
